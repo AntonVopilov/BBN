@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: BBN_DM.aux
+The style file: JHEP.bst
+Reallocated field_info (elt_size=4) to 10010 items from 5000.
+Database file #1: BBN_DMNotes.bib
+Database file #2: biblio.bib
+Warning--empty booktitle in Essig:2013lka
+Warning--empty booktitle in Alexander:2016aln
+Warning--empty booktitle in Battaglieri:2017aum
+Warning--empty publisher in Raffelt:1996wa
+Warning--empty booktitle in Verde:2019ivm
+You've used 167 entries,
+            2269 wiz_defined-function locations,
+            1943 strings with 40827 characters,
+and the built_in function-call counts, 50406 in all, are:
+= -- 5104
+> -- 2330
+< -- 0
++ -- 670
+- -- 503
+* -- 4501
+:= -- 7210
+add.period$ -- 168
+call.type$ -- 167
+change.case$ -- 166
+chr.to.int$ -- 0
+cite$ -- 172
+duplicate$ -- 2613
+empty$ -- 4077
+format.name$ -- 503
+if$ -- 13195
+int.to.chr$ -- 0
+int.to.str$ -- 167
+missing$ -- 624
+newline$ -- 505
+num.names$ -- 167
+pop$ -- 334
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2164
+stack$ -- 0
+substring$ -- 1476
+swap$ -- 1358
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 329
+width$ -- 170
+write$ -- 1727
+(There were 5 warnings)

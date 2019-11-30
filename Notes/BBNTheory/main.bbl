@@ -1,0 +1,229 @@
+\begin{thebibliography}{30}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Sarkar}(1996)}]{Sarkar:1995dd}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Sarkar}},
+  \bibinfo{journal}{Rept. Prog. Phys.} \textbf{\bibinfo{volume}{59}},
+  \bibinfo{pages}{1493} (\bibinfo{year}{1996}), \eprint{hep-ph/9602260}.
+
+\bibitem[{\citenamefont{Kolb and Turner}(1990)}]{Kolb:1990vq}
+\bibinfo{author}{\bibfnamefont{E.~W.} \bibnamefont{Kolb}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~S.} \bibnamefont{Turner}},
+  \bibinfo{journal}{Front. Phys.} \textbf{\bibinfo{volume}{69}},
+  \bibinfo{pages}{1} (\bibinfo{year}{1990}).
+
+\bibitem[{\citenamefont{Bennett et~al.}(2003)}]{Bennett:2003ba}
+\bibinfo{author}{\bibfnamefont{C.~L.} \bibnamefont{Bennett}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{WMAP}),
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{583}},
+  \bibinfo{pages}{1} (\bibinfo{year}{2003}), \eprint{astro-ph/0301158}.
+
+\bibitem[{\citenamefont{Fukugita et~al.}(1993)\citenamefont{Fukugita, Hogan,
+  and Peebles}}]{Fukugita:1993hc}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Fukugita}},
+  \bibinfo{author}{\bibfnamefont{C.~J.} \bibnamefont{Hogan}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.~J.~E.} \bibnamefont{Peebles}},
+  \bibinfo{journal}{Nature} \textbf{\bibinfo{volume}{366}},
+  \bibinfo{pages}{309} (\bibinfo{year}{1993}).
+
+\bibitem[{\citenamefont{Danziger}(1970)}]{Danziger:1970wn}
+\bibinfo{author}{\bibfnamefont{I.~J.} \bibnamefont{Danziger}},
+  \bibinfo{journal}{Ann. Rev. Astron. Astrophys.} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{161} (\bibinfo{year}{1970}).
+
+\bibitem[{\citenamefont{Weinberg}(1972)}]{Weinberg:1972kfs}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Weinberg}},
+  \emph{\bibinfo{title}{{Gravitation and Cosmology}}} (\bibinfo{publisher}{John
+  Wiley and Sons}, \bibinfo{address}{New York}, \bibinfo{year}{1972}), ISBN
+  \bibinfo{isbn}{0471925675, 9780471925675}.
+
+\bibitem[{\citenamefont{Peccei and Quinn}(1977)}]{Peccei:1977ur}
+\bibinfo{author}{\bibfnamefont{R.~D.} \bibnamefont{Peccei}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{H.~R.} \bibnamefont{Quinn}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D16}},
+  \bibinfo{pages}{1791} (\bibinfo{year}{1977}).
+
+\bibitem[{\citenamefont{Guth}(1981)}]{Guth:1980zm}
+\bibinfo{author}{\bibfnamefont{A.~H.} \bibnamefont{Guth}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D23}},
+  \bibinfo{pages}{347} (\bibinfo{year}{1981}), \bibinfo{note}{[Adv. Ser.
+  Astrophys. Cosmol.3,139(1987)]}.
+
+\bibitem[{\citenamefont{Mukhanov et~al.}(1992)\citenamefont{Mukhanov, Feldman,
+  and Brandenberger}}]{Mukhanov:1990me}
+\bibinfo{author}{\bibfnamefont{V.~F.} \bibnamefont{Mukhanov}},
+  \bibinfo{author}{\bibfnamefont{H.~A.} \bibnamefont{Feldman}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{R.~H.}
+  \bibnamefont{Brandenberger}}, \bibinfo{journal}{Phys. Rept.}
+  \textbf{\bibinfo{volume}{215}}, \bibinfo{pages}{203} (\bibinfo{year}{1992}).
+
+\bibitem[{\citenamefont{Villa et~al.}(2002)\citenamefont{Villa, Bersanelli,
+  Burigana, Butler, Mandolesi, Mennella, Morgante, Sandri, Terenzi, and
+  Valenziano}}]{Villa:2001ss}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Villa}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Bersanelli}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Burigana}},
+  \bibinfo{author}{\bibfnamefont{R.~C.} \bibnamefont{Butler}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Mandolesi}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Mennella}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Morgante}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Sandri}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Terenzi}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Valenziano}}
+  (\bibinfo{collaboration}{Planck}), \bibinfo{journal}{AIP Conf. Proc.}
+  \textbf{\bibinfo{volume}{616}}, \bibinfo{pages}{224} (\bibinfo{year}{2002}),
+  \eprint{astro-ph/0112173}.
+
+\bibitem[{\citenamefont{Ellis and Steigman}(1980)}]{Ellis:1979nq}
+\bibinfo{author}{\bibfnamefont{J.~R.} \bibnamefont{Ellis}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Steigman}},
+  \bibinfo{journal}{Phys. Lett.} \textbf{\bibinfo{volume}{89B}},
+  \bibinfo{pages}{186} (\bibinfo{year}{1980}).
+
+\bibitem[{\citenamefont{Weinberg}(1989)}]{Weinberg:1988cp}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Weinberg}},
+  \bibinfo{journal}{Rev. Mod. Phys.} \textbf{\bibinfo{volume}{61}},
+  \bibinfo{pages}{1} (\bibinfo{year}{1989}), \bibinfo{note}{[,569(1988)]}.
+
+\bibitem[{\citenamefont{Schramm and Wagoner}(1977)}]{Schramm:1977ne}
+\bibinfo{author}{\bibfnamefont{D.~N.} \bibnamefont{Schramm}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.~V.} \bibnamefont{Wagoner}},
+  \bibinfo{journal}{Ann. Rev. Nucl. Part. Sci.} \textbf{\bibinfo{volume}{27}},
+  \bibinfo{pages}{37} (\bibinfo{year}{1977}).
+
+\bibitem[{\citenamefont{Elmfors et~al.}(1994)\citenamefont{Elmfors, Enqvist,
+  and Vilja}}]{Elmfors:1993pz}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Elmfors}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Enqvist}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Vilja}},
+  \bibinfo{journal}{Phys. Lett.} \textbf{\bibinfo{volume}{B326}},
+  \bibinfo{pages}{37} (\bibinfo{year}{1994}), \eprint{hep-ph/9312265}.
+
+\bibitem[{\citenamefont{Haber and Weldon}(1981)}]{Haber:1981fg}
+\bibinfo{author}{\bibfnamefont{H.~E.} \bibnamefont{Haber}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{H.~A.} \bibnamefont{Weldon}},
+  \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{46}},
+  \bibinfo{pages}{1497} (\bibinfo{year}{1981}).
+
+\bibitem[{\citenamefont{Steigman}(1979)}]{Steigman:1979kw}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Steigman}},
+  \bibinfo{journal}{Ann. Rev. Nucl. Part. Sci.} \textbf{\bibinfo{volume}{29}},
+  \bibinfo{pages}{313} (\bibinfo{year}{1979}).
+
+\bibitem[{\citenamefont{Bernstein}(1988)}]{Bernstein:1988bw}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Bernstein}},
+  \emph{\bibinfo{title}{{Kinetic Theory in the Expanding Universe}}}, Cambridge
+  Monographs on Mathematical Physics (\bibinfo{publisher}{Cambridge University
+  Press}, \bibinfo{address}{Cambridge, U.K.}, \bibinfo{year}{1988}), ISBN
+  \bibinfo{isbn}{9780511564185}.
+
+\bibitem[{\citenamefont{Dodelson and Turner}(1992)}]{Dodelson:1992km}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Dodelson}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~S.} \bibnamefont{Turner}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D46}},
+  \bibinfo{pages}{3372} (\bibinfo{year}{1992}).
+
+\bibitem[{\citenamefont{Alpher et~al.}(1953)\citenamefont{Alpher, Follin, and
+  Herman}}]{Alpher:1953zz}
+\bibinfo{author}{\bibfnamefont{R.~A.} \bibnamefont{Alpher}},
+  \bibinfo{author}{\bibfnamefont{J.~W.} \bibnamefont{Follin}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{R.~C.}
+  \bibnamefont{Herman}}, \bibinfo{journal}{Phys. Rev.}
+  \textbf{\bibinfo{volume}{92}}, \bibinfo{pages}{1347} (\bibinfo{year}{1953}).
+
+\bibitem[{\citenamefont{Srednicki et~al.}(1988)\citenamefont{Srednicki,
+  Watkins, and Olive}}]{Srednicki:1988ce}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Srednicki}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Watkins}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{K.~A.} \bibnamefont{Olive}},
+  \bibinfo{journal}{Nucl. Phys.} \textbf{\bibinfo{volume}{B310}},
+  \bibinfo{pages}{693} (\bibinfo{year}{1988}), \bibinfo{note}{[,247(1988)]}.
+
+\bibitem[{\citenamefont{Dicus et~al.}(2008)\citenamefont{Dicus, Kolb, Gleeson,
+  Sudarshan, Teplitz, and Turner}}]{Dicus:1982cb}
+\bibinfo{author}{\bibfnamefont{D.~A.} \bibnamefont{Dicus}},
+  \bibinfo{author}{\bibfnamefont{E.~W.} \bibnamefont{Kolb}},
+  \bibinfo{author}{\bibfnamefont{A.~M.} \bibnamefont{Gleeson}},
+  \bibinfo{author}{\bibfnamefont{E.~C.~G.} \bibnamefont{Sudarshan}},
+  \bibinfo{author}{\bibfnamefont{V.~L.} \bibnamefont{Teplitz}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.~S.}
+  \bibnamefont{Turner}}, \bibinfo{journal}{AIP Conf. Proc.}
+  \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{81} (\bibinfo{year}{2008}).
+
+\bibitem[{\citenamefont{Hannestad and Madsen}(1995)}]{Hannestad:1995rs}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Hannestad}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Madsen}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D52}},
+  \bibinfo{pages}{1764} (\bibinfo{year}{1995}), \eprint{astro-ph/9506015}.
+
+\bibitem[{\citenamefont{Mangano et~al.}(2002)\citenamefont{Mangano, Miele,
+  Pastor, and Peloso}}]{Mangano:2001iu}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Mangano}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Miele}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Pastor}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Peloso}},
+  \bibinfo{journal}{Phys. Lett.} \textbf{\bibinfo{volume}{B534}},
+  \bibinfo{pages}{8} (\bibinfo{year}{2002}), \eprint{astro-ph/0111408}.
+
+\bibitem[{\citenamefont{Escudero}(2019)}]{Escudero:2018mvt}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Escudero}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1902}}, \bibinfo{pages}{007}
+  (\bibinfo{year}{2019}), \eprint{1812.05605}.
+
+\bibitem[{\citenamefont{Boehm et~al.}(2013)\citenamefont{Boehm, Dolan, and
+  McCabe}}]{Boehm:2013jpa}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Boehm}},
+  \bibinfo{author}{\bibfnamefont{M.~J.} \bibnamefont{Dolan}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{McCabe}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1308}}, \bibinfo{pages}{041}
+  (\bibinfo{year}{2013}), \eprint{1303.6270}.
+
+\bibitem[{\citenamefont{Nollett and Steigman}(2015)}]{Nollett:2014lwa}
+\bibinfo{author}{\bibfnamefont{K.~M.} \bibnamefont{Nollett}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Steigman}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D91}},
+  \bibinfo{pages}{083505} (\bibinfo{year}{2015}), \eprint{1411.6005}.
+
+\bibitem[{\citenamefont{Esmailzadeh et~al.}(1991)\citenamefont{Esmailzadeh,
+  Starkman, and Dimopoulos}}]{Esmailzadeh:1990hf}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Esmailzadeh}},
+  \bibinfo{author}{\bibfnamefont{G.~D.} \bibnamefont{Starkman}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Dimopoulos}},
+  \bibinfo{journal}{Astrophys. J.} \textbf{\bibinfo{volume}{378}},
+  \bibinfo{pages}{504} (\bibinfo{year}{1991}).
+
+\bibitem[{\citenamefont{Dolgov et~al.}(1997)\citenamefont{Dolgov, Hansen, and
+  Semikoz}}]{Dolgov:1997mb}
+\bibinfo{author}{\bibfnamefont{A.~D.} \bibnamefont{Dolgov}},
+  \bibinfo{author}{\bibfnamefont{S.~H.} \bibnamefont{Hansen}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{D.~V.}
+  \bibnamefont{Semikoz}}, \bibinfo{journal}{Nucl. Phys.}
+  \textbf{\bibinfo{volume}{B503}}, \bibinfo{pages}{426} (\bibinfo{year}{1997}),
+  \eprint{hep-ph/9703315}.
+
+\bibitem[{\citenamefont{Heckler}(1994)}]{Heckler:1994tv}
+\bibinfo{author}{\bibfnamefont{A.~F.} \bibnamefont{Heckler}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D49}},
+  \bibinfo{pages}{611} (\bibinfo{year}{1994}).
+
+\bibitem[{\citenamefont{Fields et~al.}(2014)\citenamefont{Fields, Molaro, and
+  Sarkar}}]{Fields:2014uja}
+\bibinfo{author}{\bibfnamefont{B.~D.} \bibnamefont{Fields}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Molaro}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Sarkar}},
+  \bibinfo{journal}{Chin. Phys.} \textbf{\bibinfo{volume}{C38}},
+  \bibinfo{pages}{339} (\bibinfo{year}{2014}), \eprint{1412.1408}.
+
+\end{thebibliography}

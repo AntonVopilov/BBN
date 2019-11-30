@@ -1,0 +1,103 @@
+D/H Error: 0.05e-5
+
+Loaded data from: Nu_Maj.txt
+Length: 4779
+Nu_Maj
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 2.2 MeV 	 2.7 MeV 	 8.4 MeV 	 7.0 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: Nu_Dirac.txt
+Length: 4779
+Nu_Dirac
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 3.7 MeV 	 5.3 MeV 	 11.3 MeV 	 9.9 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: Nu_Neutral_Scalar.txt
+Length: 4779
+Nu_Neutral_Scalar
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 1.2 MeV 	 1.3 MeV 	 5.6 MeV 	 4.2 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: Nu_Complex_Scalar.txt
+Length: 4779
+Nu_Complex_Scalar
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 2.3 MeV 	 2.9 MeV 	 8.5 MeV 	 7.1 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: Nu_Zp.txt
+Length: 4779
+Nu_Zp
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 3.1 MeV 	 4.3 MeV 	 10.1 MeV 	 8.8 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: EE_Maj.txt
+Length: 5427
+EE_Maj
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 0.5 MeV 	 3.4 MeV 	 4.4 MeV 	 7.0 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: EE_Dirac.txt
+Length: 4779
+EE_Dirac
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 0.7 MeV 	 6.7 MeV 	 7.4 MeV 	 9.9 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: EE_Neutral_Scalar.txt
+Length: 4779
+EE_Neutral_Scalar
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 0.4 MeV 	 0.6 MeV 	 0.0 MeV 	 4.1 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: EE_Complex_Scalar.txt
+Length: 4779
+EE_Complex_Scalar
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 0.5 MeV 	 3.7 MeV 	 4.6 MeV 	 7.1 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Loaded data from: EE_Zp.txt
+Length: 4779
+EE_Zp
+--------------------------------------------------------------------------
+ Conf. Lev. 	 BBN 		 BBN+Ob 	 CMB 		 BBN + CMB
+--------------------------------------------------------------------------
+ 2 sigma 	 0.6 MeV 	 5.6 MeV 	 6.3 MeV 	 8.8 MeV
+--------------------------------------------------------------------------
+NOTE: A value of 0.0 MeV means no bound could be determined.
+
+Date: 14/11/2019

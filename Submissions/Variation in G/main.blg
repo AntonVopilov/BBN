@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: JHEP.bst
+Database file #1: mainNotes.bib
+Database file #2: biblio.bib
+Warning--empty year in Escudero:2019new
+You've used 43 entries,
+            2269 wiz_defined-function locations,
+            928 strings with 13313 characters,
+and the built_in function-call counts, 13135 in all, are:
+= -- 1339
+> -- 549
+< -- 0
++ -- 161
+- -- 118
+* -- 1138
+:= -- 1888
+add.period$ -- 43
+call.type$ -- 43
+change.case$ -- 43
+chr.to.int$ -- 0
+cite$ -- 44
+duplicate$ -- 674
+empty$ -- 1087
+format.name$ -- 118
+if$ -- 3453
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 164
+newline$ -- 133
+num.names$ -- 43
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 572
+stack$ -- 0
+substring$ -- 455
+swap$ -- 345
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 95
+width$ -- 45
+write$ -- 445
+(There was 1 warning)

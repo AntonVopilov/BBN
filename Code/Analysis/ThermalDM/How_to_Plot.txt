@@ -1,0 +1,12 @@
+This is a plotting README for how to produce the figures in the paper:
+
+Figure 1: distributions.py
+Figure 2: contours.py (using utils.py/plot_cts_and_deltachi)
+Figure 3: Tdec.py
+Figure 4: cmbforecast.py
+Figure 5: errors.py
+Figure 6: DeltaNeff/neff.py
+Figure 7: Nollett/plotting.py
+Figure 8: omegab.py
+Figure 9: master.py
+Figure 10: extra_distributions.py

@@ -1,0 +1,21 @@
+\nobreakspace {}\hfill \textbf {Page}{\@@par }
+\contentsline {section}{\numberline {I}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {II}Preliminaries}{3}{section.2}
+\contentsline {subsection}{\numberline {A}Equilibrium in the Early Universe}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {B}Statistical Physics Preliminaries}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {C}Temperature of Decoupled Species}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {D}Example: Neutrino Decoupling in the Standard Model}{9}{subsection.2.4}
+\contentsline {section}{\numberline {III}Primordial Nucleosynthesis}{10}{section.3}
+\contentsline {subsection}{\numberline {A}The Standard BBN Model}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {B}Neutron Freeze-out}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {C}Reaction Rates and the Neutron Lifetime}{14}{subsection.3.3}
+\contentsline {subsection}{\numberline {D}Light Element Synthesis}{16}{subsection.3.4}
+\contentsline {section}{\numberline {IV}Precision Calculations of $N_{\mathrm {eff}}$}{18}{section.4}
+\contentsline {subsection}{\numberline {A}Non-Instantaneous Decoupling}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {B}QED Finite Temperature Corrections}{20}{subsection.4.2}
+\contentsline {section}{\numberline {V}New Physics and Big Bang Nucleosynthesis}{20}{section.5}
+\contentsline {subsection}{\numberline {A}Annihilation into Neutrinos}{21}{subsection.5.1}
+\contentsline {subsection}{\numberline {B}Resulting Expressions}{21}{subsection.5.2}
+\contentsline {section}{\numberline {VI}Uncertainties in Big Bang Nucleosynthesis}{21}{section.6}
+\contentsline {subsection}{\numberline {A}Light Element Abundances}{23}{subsection.6.1}
+\contentsline {subsection}{\numberline {B}The Lithium Abundance}{24}{subsection.6.2}

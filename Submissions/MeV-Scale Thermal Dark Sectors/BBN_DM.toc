@@ -1,0 +1,32 @@
+\contentsline {title}{Refined Bounds on MeV-scale Thermal Dark Sectors from BBN and the CMB}{1}{section*.2}
+\contentsline {abstract}{Abstract}{1}{section*.1}
+\contentsline {section}{\numberline {I}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {II}Cosmology with Light WIMPS}{3}{section.2}
+\contentsline {subsection}{\numberline {II.1}Temperature Evolution and Universe's Expansion}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {II.2}Primordial Nucleosynthesis in the Presence of Thermal BSM Particles}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {II.3}Cosmological Implications}{6}{subsection.2.3}
+\contentsline {section}{\numberline {III}Cosmological Data and Analysis}{7}{section.3}
+\contentsline {subsection}{\numberline {III.1}Big Bang Nucleosynthesis}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {III.2}Cosmic Microwave Background: Planck 2018}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {III.3}BBN+CMB Data Combinations}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {III.4}Statistical Assessment}{8}{subsection.3.4}
+\contentsline {section}{\numberline {IV}Current Cosmological Constraints on Purely Electrophilic or Neutrinophilic Species}{8}{section.4}
+\contentsline {section}{\numberline {V}Current Cosmological Constraints on Generic WIMPs}{11}{section.5}
+\contentsline {subsection}{\numberline {V.1}Overview of Cosmological Implications}{11}{subsection.5.1}
+\contentsline {subsection}{\numberline {V.2}Constraints}{12}{subsection.5.2}
+\contentsline {section}{\numberline {VI}Future Cosmological Constraints}{13}{section.6}
+\contentsline {subsection}{\numberline {VI.1}Cosmic Microwave Background}{13}{subsection.6.1}
+\contentsline {subsection}{\numberline {VI.2}Big Bang Nucleosynthesis}{14}{subsection.6.2}
+\contentsline {section}{\numberline {VII}Discussion}{14}{section.7}
+\contentsline {subsection}{\numberline {VII.1}Particle Physics Scenarios}{14}{subsection.7.1}
+\contentsline {subsection}{\numberline {VII.2}Modified Cosmological Histories}{15}{subsection.7.2}
+\contentsline {subsection}{\numberline {VII.3}Comparison with Previous Literature}{16}{subsection.7.3}
+\contentsline {section}{\numberline {VIII}Conclusions}{16}{section.8}
+\contentsline {section}{\numberline {}References}{18}{section*.3}
+\contentsline {section}{\numberline {IX}Appendices}{23}{section.9}
+\contentsline {subsection}{\numberline {A}Consistency Checks of Modified BBN Code}{23}{subsection.9.1}
+\contentsline {subsection}{\numberline {B}Comparison with Previous Literature}{23}{subsection.9.2}
+\contentsline {subsection}{\numberline {C}Conservative Range for the Baryon Density from CMB observations}{24}{subsection.9.3}
+\contentsline {subsection}{\numberline {D}Constraints for all Scenarios}{25}{subsection.9.4}
+\contentsline {subsection}{\numberline {E}Implications for Lithium-7 and Helium-3}{27}{subsection.9.5}
+\contentsline {subsection}{\numberline {F}CMB-S4 Forecast}{28}{subsection.9.6}
