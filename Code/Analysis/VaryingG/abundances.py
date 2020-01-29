@@ -61,7 +61,7 @@ if __name__ == '__main__':
 	YpCentre = 0.245
 	YpError = np.sqrt(0.003**2 + 0.00017**2)
 	DHCentre = 2.569
-	DHError = np.sqrt(0.027**2 + 0.036**2)
+	DHError = np.sqrt(0.027**2 + 0.13**2)
 	NeffCentre = 2.89
 	NeffError = 0.31
 
@@ -69,7 +69,7 @@ if __name__ == '__main__':
 
 	axtwin = ax1.twiny()
 	axtwin.set_xlim((dGdT(0.8), dGdT(1.2)))
-	axtwin.set_xlabel(r'$10^{12} \times \dot{G}/G_0$')
+	axtwin.set_xlabel(r'$10^{12} \times \dot{G}/G_0 \, [\mathrm{yr}^{-1}]$')
 
 	ax1.add_patch(plt.Rectangle(xy=(0.1, YpCentre - 2*YpError),
                             width=(30.0 - 0.1),

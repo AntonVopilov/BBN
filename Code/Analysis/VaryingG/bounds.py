@@ -37,10 +37,10 @@ if __name__ == '__main__':
 	YpCentre = 0.245
 
 	YpError = 0.003
-	YpErrorTh = 0.00017
+	YpErrorTh = 0.00018
 	DHCentre = 2.569 * 10**(-5)
 	DHError = (0.027) * 10**(-5)
-	DHErrorTh = 0.036 * 10**(-5)
+	DHErrorTh = 0.13 * 10**(-5)
 	OmegabCentre = 0.02236
 	OmegabError = 0.00015*2
 
